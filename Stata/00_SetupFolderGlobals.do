@@ -81,7 +81,7 @@ global pathexport "`dir'\Export"
 global pathR "`dir'\R"
 global pathPython "`dir'\Python"
 global pathProgram "`dir'\Program"
-global pathPdrive "P:\GeoCenter\GIS\Projects\Ethiopia"
+global pathPdrive "P:\GeoCenter\GIS\Projects\Uganda"
 
 * Project macros are defined as:
 macro list 
